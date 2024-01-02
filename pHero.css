@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    padding-left: 100px;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+.navigation{
+    padding-top: 80px;
+    padding-left: 60%;
+    display: flex;
+    
+}
+li{
+    padding-left: 10px;
+}
+.title{
+    padding: 10px;
+    margin-left: 45%;
+    font-size: 30px;
+    
+}
+.contents{
+    margin: 0;
+    border-radius: 10px;
+    color: rgb(220, 229, 248);
+    
+}
+.container{
+    display: flex;
+    padding: 50px;
+    background-color: black;
+    flex-wrap: wrap;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 10px;
+    padding-left: 5%;
+    
+}
